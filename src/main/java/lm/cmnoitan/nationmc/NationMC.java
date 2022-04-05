@@ -66,6 +66,8 @@ public class MessageDao {
 public class  BeakEventClass implements Listener{
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent event){
+        if
+    }
         int event.getPlayer().getName();
     //}
     //public void  onBlockBreakEvent(BlockBreakEvent event){
