@@ -1,0 +1,6 @@
+name: NationMC
+version: '${project.version}'
+main: lm.cmnoitan.nationmc.NationMC
+api-version: 1.18
+authors: [ mumeinosato ]
+description: NationMC_Plugin
